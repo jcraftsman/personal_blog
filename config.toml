@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Wassel Alazhar"
+theme = "ananke"
+
+[params]
+  favicon = ""
+  twitter = "https://twitter.com/wasselovski"
+  github = "https://github.com/jcraftsman"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/wassel-alazhar-8b991011/"
+  featured_image = "images/featured.jpg"
