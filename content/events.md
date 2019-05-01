@@ -2,6 +2,7 @@
 title: "Events"
 date: 2019-05-01T16:40:11+02:00
 type: page
+baseUrl: '.'
 featured_image: '/images/duck-conf-speaker.jpg'
 
 menu:
@@ -53,7 +54,7 @@ menu:
   - [Code repository](https://github.com/jcraftsman/evolutionary-design-workshop)
   - [Slides](https://speakerdeck.com/jcraftsman/real-world-evolutionary-design)
 
-![speaking at Explore DDD](/images/exploreddd-speaker.jpg)
+![ ](/images/exploreddd-speaker.jpg)
 
 #### AGILE FRANCE (Paris, June 14th - 15th)
 
