@@ -53,7 +53,7 @@ menu:
   - [Code repository](https://github.com/jcraftsman/evolutionary-design-workshop)
   - [Slides](https://speakerdeck.com/jcraftsman/real-world-evolutionary-design)
 
-![](/images/exploreddd-speaker.jpg)
+![speaking at Explore DDD](/images/exploreddd-speaker.jpg)
 
 #### AGILE FRANCE (Paris, June 14th - 15th)
 
