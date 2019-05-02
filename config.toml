@@ -15,4 +15,5 @@ theme = "ananke"
   mastodon = ""
   featured_image = "images/featured.jpg"
   recent_posts_number = 3
-
+  media_folder= "static/images/" 
+  public_folder= "/images/" 
