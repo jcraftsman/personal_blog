@@ -2,6 +2,18 @@ languageCode = "en-us"
 title = "Wassel Alazhar"
 theme = "ananke"
 
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
   favicon = ""
   twitter = "https://twitter.com/wasselovski"
