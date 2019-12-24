@@ -3,7 +3,7 @@ title: "Events"
 date: 2019-05-01T16:40:11+02:00
 type: page
 baseUrl: '/'
-featured_image: 'images/duck-conf-speaker.jpg'
+featured_image: 'images/duckconfspeaker.jpg'
 
 menu:
   main: {}
