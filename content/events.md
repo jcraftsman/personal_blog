@@ -3,7 +3,7 @@ title: "Events"
 date: 2019-05-01T16:40:11+02:00
 type: page
 baseUrl: '/'
-featured_image: '/images/duck-conf-speaker.jpg'
+featured_image: 'images/duck-conf-speaker.jpg'
 
 menu:
   main: {}
@@ -11,7 +11,7 @@ menu:
 
 ## Upcoming
 
-### Crafting Datascience meetup (Paris, June 26th)
+### Crafting Datascience meetup (Paris, January 16th)
 
 [In French] Le meetup des professionnels du software et de la data pour échanger, apprendre et progresser ensemble. L'objectif est de :
 
@@ -27,6 +27,11 @@ menu:
 ## Past Conferences
 
 ### 2019
+
+#### AGILE TOUR AIX-MARSEILLE (Aix-en-Provence, Dec 5th)
+
+- Une Mep par developpeur par jour [(see more)](http://atmrs.esprit-agile.com/programme/)
+  - [Slides](https://speakerdeck.com/jcraftsman/une-mep-par-developpeur-par-jour)
 
 #### DDD EUROPE (Amsterdam, Jan 31th - Feb 1st)
 
