@@ -5,3 +5,9 @@ draft: true
 ---
 
 Experts vs learner
+
+We are paid to learn
+
+Solution Expert vs Problem Expert
+
+L'équipe doit pouvoir continuer à apprendre pour résoudre des problèmes complexes.
