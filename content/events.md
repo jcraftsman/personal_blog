@@ -55,7 +55,7 @@ menu:
 
 #### EXPLORE DDD (Denver, Colorado, USA, Sep 12th - 14th)
 
-- Real world Evolutionary Design [(see more)](http://exploreddd.com/speakers/wassel-alazhar.html)
+- Real world Evolutionary Design [(see more)](https://exploreddd.com/2018/speakers/wassel-alazhar.html)
   - [Code repository](https://github.com/jcraftsman/evolutionary-design-workshop)
   - [Slides](https://speakerdeck.com/jcraftsman/real-world-evolutionary-design)
 
