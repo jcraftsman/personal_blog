@@ -1,9 +1,12 @@
 ---
-title: "Cross Cutting Concerns With Middleware Buses"
+title: "Cross Cutting Concerns With Pipes and filters / Middleware Buses"
 date: 2020-02-17T18:00:10+01:00
 draft: true
 ---
 
+
+- <https://codeopinion.com/separating-concerns-with-pipes-filters/>
+- <https://www.enterpriseintegrationpatterns.com/PipesAndFilters.html>
 
 
 ```java
@@ -38,3 +41,14 @@ draft: true
       return input;
 }
 ```
+
+Example:
+- Logging
+- Validation
+- Caching
+- Retry
+
+Example:
+- Decrypt
+- Authenticate
+- Dedulicate
